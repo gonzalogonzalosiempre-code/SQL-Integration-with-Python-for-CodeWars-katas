@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Convert a string to an array",
+        "id": "57e76bc428d6fbc2d500036d",
+        "rank.name": "8 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-16T05:39:12.554Z"
+    },
+    {
+        "name": "Two fighters, one winner.",
+        "id": "577bd8d4ae2807c64b00045b",
+        "rank.name": "7 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-12T06:11:42.454Z"
+    },
+    {
+        "name": "Check whether a number is valid in a given numeral system",
+        "id": "67757660c552a3a7ef9aaceb",
+        "rank.name": "7 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-11T05:56:40.547Z"
+    },
+    {
+        "name": "Find the odd int",
+        "id": "54da5a58ea159efa38000836",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-09T16:56:02.303Z"
+    },
+    {
+        "name": "Stop gninnipS My sdroW!",
+        "id": "5264d2b162488dc400000001",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-08T16:34:19.302Z"
+    },
+    {
+        "name": "Find the next perfect square!",
+        "id": "56269eb78ad2e4ced1000013",
+        "rank.name": "7 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-07T00:46:58.381Z"
+    },
+    {
+        "name": "Create Phone Number",
+        "id": "525f50e3b73515a6db000b83",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-07T00:23:03.761Z"
+    },
+    {
+        "name": "Playing With Toy Blocks ~ Can you build a 4x4 square?",
+        "id": "5cab471da732b30018968071",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-06T05:35:14.101Z"
+    },
+    {
+        "name": "Wave Sorting",
+        "id": "596f28fd9be8ebe6ec0000c1",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-06T03:57:28.419Z"
+    },
+    {
+        "name": "Alphabet war - airstrike - letters massacre",
+        "id": "5938f5b606c3033f4700015a",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-06T01:41:47.172Z"
+    },
+    {
+        "name": "The Clockwise Spiral",
+        "id": "536a155256eb459b8700077e",
+        "rank.name": "5 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-09-02T16:54:46.512Z"
+    },
+    {
+        "name": "Brainfuck Translator",
+        "id": "58924f2ca8c628f21a0001a1",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-30T00:21:37.649Z"
+    },
+    {
+        "name": "Who likes it?",
+        "id": "5266876b8f4bf2da9b000362",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-29T06:18:26.888Z"
+    },
+    {
+        "name": "Calculate Last Non-Zero Digit of Factorial [EX]",
+        "id": "663112e7f82a3a18db62a790",
+        "rank.name": "2 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-29T05:39:49.294Z"
+    },
+    {
+        "name": "The boolean order",
+        "id": "59eb1e4a0863c7ff7e000008",
+        "rank.name": "3 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-25T15:58:06.137Z"
+    },
+    {
+        "name": "Strip Comments",
+        "id": "51c8e37cee245da6b40000bd",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-23T00:55:12.377Z"
+    },
+    {
+        "name": "Hamming Numbers",
+        "id": "526d84b98f428f14a60008da",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-20T04:53:02.288Z"
+    },
+    {
+        "name": "Factorial tail",
+        "id": "55c4eb777e07c13528000021",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-19T16:21:39.270Z"
+    },
+    {
+        "name": "4 By 4 Skyscrapers",
+        "id": "5671d975d81d6c1c87000022",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-16T22:40:55.994Z"
+    },
+    {
+        "name": "Explosive Sum",
+        "id": "52ec24228a515e620b0005ef",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-15T02:57:19.934Z"
+    },
+    {
+        "name": "Primes with Even Digits",
+        "id": "582dcda401f9ccb4f0000025",
+        "rank.name": "5 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-14T03:39:14.983Z"
+    },
+    {
+        "name": "Numbers that are a power  of their  sum of  digits",
+        "id": "55f4e56315a375c1ed000159",
+        "rank.name": "5 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-13T02:22:07.215Z"
+    },
+    {
+        "name": "How many numbers III?",
+        "id": "5877e7d568909e5ff90017e6",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-12T05:56:37.209Z"
+    },
+    {
+        "name": "Sum of Intervals",
+        "id": "52b7ed099cdc285c300001cd",
+        "rank.name": "4 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-10T06:51:27.871Z"
+    },
+    {
+        "name": "Make the Deadfish Swim",
+        "id": "51e0007c1f9378fa810002a9",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-08T18:32:12.461Z"
+    },
+    {
+        "name": "Reversed Strings",
+        "id": "5168bb5dfe9a00b126000018",
+        "rank.name": "8 kyu",
+        "completedLanguages": "sql",
+        "completedAt": "2026-08-08T03:35:23.041Z"
+    },
+    {
+        "name": "Count characters in your string",
+        "id": "52efefcbcdf57161d4000091",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-08T02:02:57.060Z"
+    },
+    {
+        "name": "Roman Numerals Decoder",
+        "id": "51b6249c4612257ac0000005",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-08-07T23:30:01.055Z"
+    },
+    {
+        "name": "The Hashtag Generator",
+        "id": "52449b062fb80683ec000024",
+        "rank.name": "5 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-06-07T05:27:29.073Z"
+    },
+    {
+        "name": "Break camelCase",
+        "id": "5208f99aee097e6552000148",
+        "rank.name": "6 kyu",
+        "completedLanguages": "python",
+        "completedAt": "2026-06-06T05:42:51.587Z"
+    },
+    {
+        "name": "Convert string to camel case",
+        "id": "517abf86da9663f1d2000003",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-06-04T06:48:36.309Z"
+    },
+    {
+        "name": "SQL Basics: Group By Day",
+        "id": "5811597e9d278beb04000038",
+        "rank.name": "5 kyu",
+        "completedLanguages": "sql",
+        "completedAt": "2026-06-03T05:17:34.366Z"
+    },
+    {
+        "name": "SQL Grasshopper: Select Columns",
+        "id": "582365c18917435ab3000020",
+        "rank.name": "8 kyu",
+        "completedLanguages": "sql",
+        "completedAt": "2026-06-03T05:01:54.736Z"
+    },
+    {
+        "name": "Multiplication table",
+        "id": "534d2f5b5371ecf8d2000a08",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-06-03T04:55:31.123Z"
+    },
+    {
+        "name": "Is a number prime?",
+        "id": "5262119038c0985a5b00029f",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-06-03T04:34:16.578Z"
+    },
+    {
+        "name": "WeIrD StRiNg CaSe",
+        "id": "52b757663a95b11b3d00062d",
+        "rank.name": "6 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-06-02T16:24:01.534Z"
+    },
+    {
+        "name": "Highest and Lowest",
+        "id": "554b4ac871d6813a03000035",
+        "rank.name": "7 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-05-28T04:04:54.168Z"
+    },
+    {
+        "name": "Square(n) Sum",
+        "id": "515e271a311df0350d00000f",
+        "rank.name": "8 kyu",
+        "completedLanguages": "cpp",
+        "completedAt": "2026-05-28T03:31:49.055Z"
+    }
+]

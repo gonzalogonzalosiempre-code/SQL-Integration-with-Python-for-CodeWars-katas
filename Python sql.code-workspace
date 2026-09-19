@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Python sql",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
