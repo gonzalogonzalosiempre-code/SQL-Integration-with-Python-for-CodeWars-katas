@@ -10,7 +10,7 @@ Built as the final project for **Harvard's CS50P (Introduction to Programming wi
 
 ## Video Demo
 
-- 🎥 **[https://youtu.be/HfKBim6dx5o]()** — detailed explanation of the design and code.
+- 🎥 **[https://drive.google.com/file/d/1DyAaTQLEbotwMIqDyBtTHSrWmTArOkUA/view?usp=sharing]()** — detailed explanation of the design and code.
 - 🎥 **[https://youtu.be/tB8CSlqJB5U]()** — the required 2–3 minute presentation.
 
 ---
