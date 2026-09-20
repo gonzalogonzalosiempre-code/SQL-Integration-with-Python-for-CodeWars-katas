@@ -10,8 +10,8 @@ Construido como proyecto final para **CS50P de Harvard (Introducción a la Progr
 
 ## Video de demostración
 
-- 🎥 **[https://youtu.be/tB8CSlqJB5U]()** — recorrido detallado del diseño y del código.
-- 🎥 **[https://drive.google.com/file/d/1DyAaTQLEbotwMIqDyBtTHSrWmTArOkUA/view?usp=sharing]()** — la presentación obligatoria de 2-3 minutos.
+- 🎥 **[https://drive.google.com/file/d/1DyAaTQLEbotwMIqDyBtTHSrWmTArOkUA/view?usp=sharing]()** — recorrido detallado del diseño y del código.
+- 🎥 **[https://youtu.be/tB8CSlqJB5U]()** — la presentación obligatoria de 2-3 minutos.
 
 ---
 
